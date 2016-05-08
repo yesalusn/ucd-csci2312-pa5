@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TemplateTests.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ErrorContext.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/custom_iterator.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/less_functor.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ErrorContext.h" isTestSource="false" />
